@@ -1,0 +1,26 @@
+.home-container {
+  padding: 40px;
+}
+
+.start-button {
+  color: #fff;
+  height: 40px;
+  width: 101px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  
+}
+
+.home-content h1 {
+  font-size: 48px;
+  font-weight: bold;
+  color: #000000;
+}
+
+.home-content h2 {
+  font-size: 24px;
+  color: #7e7e7e;
+  padding-bottom: 27px;
+}
